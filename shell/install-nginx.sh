@@ -5,10 +5,10 @@
 ## Version      20190519.00
 
 #### 版本 设置 
-VERSION_OPENSSL="1.1.1b"
+VERSION_OPENSSL="1.1.1c"
 VERSION_PCRE="8.43"
 VERSION_ZLIB="1.2.11"
-VERSION_NGINX="1.16.0"
+VERSION_NGINX="1.16.1"
 
 #### 没有特殊需求，请不要修改
 WEB_PATH_OPENSSL="https://www.openssl.org/source/openssl-$VERSION_OPENSSL.tar.gz"
