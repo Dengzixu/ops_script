@@ -9,7 +9,7 @@ wget -qO - https://raw.githubusercontent.com/Dengzixu/ops_script/master/install_
 ```
 或使用 CDN
 ```shell
-wget -qO - https://mirrors.zixu.tech/github/dengzixu/ops_script/install_ssh_cert.sh | bash -
+wget -qO - https://sh.zixu.tech/install_ssh_cert.sh | bash -
 ```
 
 ### create_monitor.sh
@@ -19,5 +19,5 @@ wget -qO - https://raw.githubusercontent.com/Dengzixu/ops_script/master/create_m
 ```
 或使用 CDN
 ```shell
-wget -qO - https://mirrors.zixu.tech/github/dengzixu/ops_script/create_monitor.sh | sudo bash -
+wget -qO - https://sh.zixu.tech/create_monitor.sh | sudo bash -
 ```
